@@ -1,3 +1,19 @@
+# Moved to willitplug-plugin
+
+The current official package is maintained in
+[richard-better/willitplug-plugin](https://github.com/richard-better/willitplug-plugin).
+It includes the travel-power skill, all four public MCP tools, marketplace manifests
+and ChatGPT packaging.
+
+```sh
+npx skills add richard-better/willitplug-plugin --skill travel-power
+```
+
+This repository is retained for existing installations and history. Use
+`willitplug-plugin` for new installations and updates.
+
+---
+
 # WillItPlug agent integration
 
 Official skill and portable Agent Plugin for [WillItPlug](https://www.willitplug.com).
