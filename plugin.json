@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "willitplug",
+  "version": "1.0.0",
+  "description": "Travel plug compatibility, voltage and packing guidance through WillItPlug's public tools.",
+  "author": { "name": "Richard Borcsik", "url": "https://www.willitplug.com/about/" },
+  "homepage": "https://www.willitplug.com/developers/",
+  "repository": "https://github.com/richard-better/willitplug-agents",
+  "license": "MIT",
+  "keywords": ["travel", "adapters", "voltage", "mcp"]
+}
